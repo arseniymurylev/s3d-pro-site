@@ -1,0 +1,1 @@
+import{u as e}from"./preload-helper-CgobkUbf.js";import{i as t,n,r}from"./index-DYyVCBtE.js";import{t as i}from"./StructuredData-BJ8EnMjm.js";var a=e();function o(){let e=n.useLoaderData();return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(i,{json:t(e,`uslugi`)}),(0,a.jsx)(r,{doc:e,kind:`uslugi`})]})}export{o as component};

@@ -1,0 +1,1 @@
+import{u as e}from"./preload-helper-CgobkUbf.js";var t=e();function n({json:e}){return(0,t.jsx)(`script`,{type:`application/ld+json`,dangerouslySetInnerHTML:{__html:e}})}export{n as t};
